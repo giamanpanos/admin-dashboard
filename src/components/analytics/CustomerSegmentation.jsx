@@ -66,7 +66,6 @@ const CustomerSegmentation = () => {
           </RadarChart>
         </ResponsiveContainer>
       </div>
-      ;
     </motion.div>
   );
 };
